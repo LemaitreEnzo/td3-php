@@ -1,6 +1,6 @@
 <?php
 // ex1
-$string = 'Bonjour, je m’appelle françois dupont, j’ai 35 ans et j’habite Paris.';
+$string = 'Bonjour, je m\'appelle françois dupont, j\'ai 35 ans et j\'habite Paris.';
 
 // ex2
 $newString = "Je suis une \"chaîne de caractères\".";
